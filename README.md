@@ -7,4 +7,9 @@ The goal for the view is to be both a website coded in HTML, CSS and Javascript 
 
 The controller is a bit tricky, but will most liklye be a part of the view. 
 
-As for the model will be written is Java. Im not sure what it will need jet. 
+As for the model will be written is Java. Im not sure what it will need jet. But som fetures should be:
+
+  - Create you freezerspace
+  - Create the itmes you put in the freezer
+  - Make these items personizable, like putting pictures of what is in them, maybe this is more of a view thing? 
+  - Make an algorithm that calculates the most space efficiant way to order you freezer items. 
