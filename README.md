@@ -1,5 +1,5 @@
 # FreezerFixer
-An application that moddells your freezer and helps you to keep it tidy. 
+An application that moddells your freezer and helps you to keep it tidy. I figured out it this is a implmentation of a 3D bin packing problem. 
 
 The model-wiev-controller design pattern will be used. 
 
